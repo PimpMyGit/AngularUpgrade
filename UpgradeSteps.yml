@@ -1,0 +1,14 @@
+# Upgrade PhoneCat
+
+1. npm i typescript --save-dev
+2. npm install @types/jasmine @types/angular @types/angular-animate @types/angular-aria @types/angular-cookies @types/angular-mocks @types/angular-resource @types/angular-route @types/angular-sanitize --save-dev
+3. npm install @types/angular-material --save-dev
+4. add tsconfig.json (https://angular.io/config/tsconfig)
+5. add 
+  { "tsc": "tsc",
+    "tsc:w": "tsc -w" }
+  in package.json:scripts{}
+6. run on terminal: "npm run tsc:w" (non ho capito il fine, mi è sembrato opzionale)
+7. change file ext .js to .ts (close vscode, run command, reopen vscode)
+  from powershell:  "Get-ChildItem -File -Recurse -Include *.js | % { Rename-Item -Path $_.PSPath -NewName $_.Name.replace(".js",".ts")}"
+8. run "npm start"
