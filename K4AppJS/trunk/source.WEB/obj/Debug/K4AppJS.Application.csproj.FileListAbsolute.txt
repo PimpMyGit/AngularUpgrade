@@ -1,0 +1,7 @@
+C:\Programmazione\IdeaTech\AngularUpgrade\K4AppJS\trunk\source.WEB\bin\K4AppJS.xml
+C:\Programmazione\IdeaTech\AngularUpgrade\K4AppJS\trunk\source.WEB\bin\K4AppJS.dll
+C:\Programmazione\IdeaTech\AngularUpgrade\K4AppJS\trunk\source.WEB\bin\K4AppJS.pdb
+C:\Programmazione\IdeaTech\AngularUpgrade\K4AppJS\trunk\source.WEB\obj\Debug\K4AppJS.Application.csproj.AssemblyReference.cache
+C:\Programmazione\IdeaTech\AngularUpgrade\K4AppJS\trunk\source.WEB\obj\Debug\K4AppJS.Application.csproj.CoreCompileInputs.cache
+C:\Programmazione\IdeaTech\AngularUpgrade\K4AppJS\trunk\source.WEB\obj\Debug\K4AppJS.dll
+C:\Programmazione\IdeaTech\AngularUpgrade\K4AppJS\trunk\source.WEB\obj\Debug\K4AppJS.pdb
